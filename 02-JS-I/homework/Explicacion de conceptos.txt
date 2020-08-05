@@ -1,0 +1,9 @@
+
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión:
+
+	* Variables: Cajitas donde se pueden guardar datos, ya sean numeros, cadenas de caracteres, booleanos, etc.
+	* Strings: Cadenas de caracteres, letras o numeros, siempre entre comillas. Por ejemplo:'hola'.
+	* Funciones (argumentos, `return`): Las funciones son estructuras que sirven para ejecutar el mismo codigo varias veces sin la necesidad de reescribirlo cada vez. Pueden o no recibir informacion a traves de argumentos, que son variables que se ponen entre parentesis luego del nombre de la funcion al ser declarada y sirven para recibir datos de entrada que luego serán usados por la funcion. Tambien pueden o no retornar datos a traves de la instrucción return, que por lo general se declara antes de cerrar la funcion.
+	* Declaraciones `if`: Se usan para indicarle al programa "si se cumple esta condicion hacé esto". Tambien existe la cláusula 'else' para indicarle al programa que hacer en caso contrario de dicha condicion.
+	* Valores booleanos (`true`, `false`): Son los valores verdadero o falso, 1 y 0. Las computadoras en realidad solo entienden un binario 0 y 1 que los sistemas operativos, programas, interfaces traducen en un lenguaje mas amigable para que podamos interactuar con ellas. Retomando el concepto del if, las condiciones que se usan para evaluar si se ejecuta o no el codigo del if, siempre tienen como respuesta un valor booleano. Si la condicion del if se cumple, es un true y viceversa, false. 
