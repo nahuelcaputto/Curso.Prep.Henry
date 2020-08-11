@@ -1,0 +1,3 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Arrays: son estructuras similares a las listas o ficheros. Puedo guardar ahi variables, numeros, strings, valores de todo tipo incluso funciones o tambien arrays, todo separado por comas. Cada posicion dentro de un array funciona como indice para acceder a ese contenido, empezando con cero (primer campo del array es arr[0]).
