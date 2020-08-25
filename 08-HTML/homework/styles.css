@@ -1,0 +1,45 @@
+
+h1{  
+      color: #B9E8BA;
+}     	
+img{
+	width:400px;
+      height: 280px;
+      border-radius: 10px;
+}
+#thirdDiv{
+		height:600px;
+		width:500px;
+            padding:50px;
+		background-color: #B9E8BA;
+            border:dotted white 10px;
+            border-radius: 10px;
+            display:flex;
+            justify-content: center;
+            align-items: center;
+
+}
+#spanID{
+	font-size: 18px;
+	margin: 50px;
+	border: solid #B9E8BA 10px;
+      border-radius: 10px;
+}
+
+body{
+      background-image:url("../img/fondoveg.jpg");
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+      background-color: white;
+      font-family: "Lucida Console", Courier, monospace;
+}
+div{
+      margin: 0 auto;
+      max-width: 500px;
+      text-align:center;
+}
+li{
+      padding:10px;
+}                                                     

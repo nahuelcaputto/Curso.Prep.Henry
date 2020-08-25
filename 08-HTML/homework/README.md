@@ -1,4 +1,4 @@
-# Homework: HTML
+                   # Homework: HTML
 
 Ahora que nos ha visto crear un archivo HTML y una hoja de estilo externa, crearas una propia.
 
@@ -7,7 +7,9 @@ Ahora que nos ha visto crear un archivo HTML y una hoja de estilo externa, crear
 Crear un nuevo archivo dentro de la carpeta `homework` llamado `homework.html` donde deberás realizar lo siguiente:
 ```
 I. Cree una página HTML básica.
-  A. Cree el diseño básico para una página HTML usando html, head y body.
+º
+
+
   B. Agregue un elemento de título y asigne a su página el título de "Tarea HTML de [Su nombre]".
   C. En el cuerpo, crea tres divs.
     1. En el primer div crea:
